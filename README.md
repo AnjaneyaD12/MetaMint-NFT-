@@ -22,8 +22,14 @@ Open the terminal and run the command below.
 ```sh
 $ yarn hardhat node
 ```
+## Step 4. Add a hardhat localhost network to your metamask. You will get the RPC URL when you run the node. Enter chainId as 31337 (for hardhat) and save it.
 
-## Step 4. Run the Front End Application
+## Step 5. Deploy the smart contract on the network. Open the termminal and run the command below
+```sh
+$ yarn hardhat run scripts/deploy.js --network <SAVED NETWORK NAME>
+```
+
+## Step 6. Run the Front End Application
 `$ yarn start`
 Visit this URL in your browser: http://localhost:3000
 
