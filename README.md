@@ -3,7 +3,7 @@ Hey!
 Follow the steps below to download, install, and run this project.
 
 ## Dependencies
-Install these prerequisites before ckloning the project.
+Install these prerequisites before cloning the project.
 - NPM: https://nodejs.org
 - Hardhat: https://hardhat.org/
 - EthersJs: https://ethers.org/
