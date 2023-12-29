@@ -33,3 +33,5 @@ $ yarn hardhat run scripts/deploy.js --network <SAVED NETWORK NAME>
 `$ yarn start`
 Visit this URL in your browser: http://localhost:3000
 
+## Preview 
+https://metamint-nft-dapp.netlify.app/
